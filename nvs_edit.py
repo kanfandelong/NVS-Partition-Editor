@@ -134,7 +134,7 @@ class NVS_Editor:
             "NVS Partition Editor\n"
             "版本: 2026-02-26\n"
             "作者: 看番の龙\n"
-            "GitHub: https://github.com/kanfandelong/nvs_edit\n"
+            "GitHub: https://github.com/kanfandelong/NVS-Partition-Editor\n"
             "此工具用于编辑 ESP-IDF NVS 分区，支持 CSV 导入/导出以及分区生成。"
         )
         messagebox.showinfo(title="关于 NVS Partition Editor", message=info)
