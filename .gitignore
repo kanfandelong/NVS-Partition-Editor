@@ -1,0 +1,4 @@
+/.venv
+/nvs_edit.spec
+/nvs_editor_debug.log
+/__pycache__
