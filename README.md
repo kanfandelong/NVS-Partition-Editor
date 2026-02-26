@@ -1,3 +1,4 @@
+![:name](https://count.getloli.com/@NVS-Partition-Editor?name=NVS-Partition-Editor&theme=green&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&prefix=0)
 # NVS Partition Editor (nvs_edit)
 
 ESP-IDF NVS分区图形化编辑工具
